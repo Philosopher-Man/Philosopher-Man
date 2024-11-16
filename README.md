@@ -1,6 +1,6 @@
-# 🛡️ Oscar David Escalante Campos | Cybersecurity Enthusiast  
+# 🛡️ Oscar Escalante | Cybersecurity Enthusiast  
 
-Hello! I'm **Oscar David Escalante Campos**, a passionate cybersecurity enthusiast focusing on **Red Team** operations and **Pentesting**. With a strong foundation in Linux exploitation, networking, and security tools, I aim to protect and explore the ever-expanding digital world.  
+Hello! I'm **Oscar Escalante**, a passionate cybersecurity enthusiast focusing on **Red Team** operations and **Pentesting**. With a strong foundation in Linux exploitation, networking, and security tools, I aim to protect and explore the ever-expanding digital world.  
 
 ---
 
@@ -44,7 +44,8 @@ Hello! I'm **Oscar David Escalante Campos**, a passionate cybersecurity enthusia
 
 ## 📚 Current Learning  
 - **University Hacking Course (Udemy)**  
-- **Google Cybersecurity Specialization (Coursera)**  
+- **Google Cybersecurity Specialization (Coursera)**
+- **Getting ready to apply soon for tests/certifications like CEH, OSCP, eJPTv2**
 
 ---
 
