@@ -9,11 +9,11 @@ Hello! I'm **Oscar Escalante**, a passionate cybersecurity enthusiast focusing o
   - 🎯 Fuzzing, Network Scanning, Brute Forcing  
   - 📈 Privilege Escalation, Reverse Shells, Exploiting Linux Machines  
 - **Tools & Frameworks:**  
-  - ⚙️ Metasploit, Burp Suite, Wireshark, and similar utilities  
+  - ⚙️ Metasploit, Burp Suite, Wireshark, and similar utilities in kali linux and Ubuntu
 - **Programming:**  
   - 🐍 Python (Intermediate), Bash (Intermediate), Java (Basic)  
 - **Platforms:**  
-  - 🌐 Extensive experience solving machines on TryHackMe  
+  - 🌐  Extensive experience solving machines on TryHackMe, learning on HackTheBox Academy, and solving machines in HackTheBox Labs.
 
 ---
 
@@ -43,7 +43,7 @@ Hello! I'm **Oscar Escalante**, a passionate cybersecurity enthusiast focusing o
 ---
 
 ## 📚 Current Learning  
-- **University Hacking Course (Udemy)**  
+- **Hack the Box - Senior Web Penetration Tester Path**  
 - **Google Cybersecurity Specialization (Coursera)**
 - **Getting ready to apply soon for tests/certifications like CEH, OSCP, eJPTv2**
 
@@ -51,7 +51,7 @@ Hello! I'm **Oscar Escalante**, a passionate cybersecurity enthusiast focusing o
 
 ## 🌐 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/oscar-david-escalante-campos-82375932b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bu66mMPAaRiSGZb0nrwiWow%3D%3D)  
-- 🛡️ [TryHackMe](https://tryhackme.com/r/p/PhilosopherMan08)  
+- 🛡️ [TryHackMe](https://tryhackme.com/r/p/PhilosopherMan08)   
 
 ---
 
