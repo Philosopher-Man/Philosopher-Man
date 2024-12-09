@@ -50,7 +50,7 @@ Hello! I'm **Oscar Escalante**, a passionate cybersecurity enthusiast focusing o
 ---
 
 ## 🌐 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/oscar-david-escalante-campos-82375932b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bu66mMPAaRiSGZb0nrwiWow%3D%3D)  
+- 💼 [LinkedIn](www.linkedin.com/in/oscarescalantecam)  
 - 🛡️ [TryHackMe](https://tryhackme.com/r/p/PhilosopherMan08)   
 
 ---
