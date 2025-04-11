@@ -42,6 +42,14 @@ Currently advancing in **HackTheBox's Senior Web Penetration Tester Path**, I am
 
 ## 💼 Experience  
 
+
+### 🧑‍💻 Cybersecurity Analyst
+- Performed penetration testing in production-like environments  
+- Identified high-risk vulnerabilities and advised on mitigation strategies  
+- Analyzed network traffic and conducted forensics in simulated incidents  
+- Strengthened security posture through offensive assessments and reporting
+
+
 ### **TryHackMe & HackTheBox Cybersecurity Labs**  
 - 🏆 Conducted **advanced penetration testing exercises**, identifying and exploiting **50+ critical vulnerabilities** in **web, network, and Active Directory environments**.  
 - 🛠 Developed **custom attack scripts in Python and Bash**, automating reconnaissance and exploitation tasks.  
