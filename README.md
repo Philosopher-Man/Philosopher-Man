@@ -1,88 +1,117 @@
-# 🛡️ Oscar Escalante | Offensive Security & Penetration Testing Specialist  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Oscar Escalante | Offensive Security</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Courier New', monospace;
+      background-color: #0f0f0f;
+      color: #00ff88;
+      animation: fadeIn 2s ease-in;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; } to { opacity: 1; }
+    }
+    header {
+      padding: 2rem;
+      text-align: center;
+      background: black;
+      border-bottom: 2px solid #00ff88;
+    }
+    h1 {
+      font-size: 2.5rem;
+    }
+    section {
+      padding: 2rem;
+      border-bottom: 1px dashed #333;
+    }
+    .code-box {
+      background-color: #111;
+      padding: 1rem;
+      border: 1px solid #00ff88;
+      margin: 1rem 0;
+      overflow-x: auto;
+    }
+    .img-section img {
+      max-width: 100%;
+      border: 2px solid #00ff88;
+      box-shadow: 0 0 10px #00ff88;
+    }
+    a {
+      color: #00ffcc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🛡️ Oscar Escalante</h1>
+    <p>Offensive Security & Penetration Testing Specialist</p>
+  </header>
 
-Hello! I'm **Oscar Escalante**, a **cybersecurity professional** specializing in **Offensive Security, Red Team operations, and Web Application Pentesting**. With extensive hands-on experience in **exploitation techniques, security auditing, and vulnerability research**, I focus on **penetration testing, adversary emulation, and threat intelligence**.  
+  <section>
+    <h2>👋 About Me</h2>
+    <p>Hello! I'm <strong>Oscar Escalante</strong>, a cybersecurity professional specializing in Offensive Security, Red Team operations, and Web Application Pentesting.</p>
+    <p>Currently advancing in HackTheBox's <strong>Senior Web Penetration Tester Path</strong>, I focus on real-world exploitation, adversary emulation, and security research.</p>
+  </section>
 
-Currently advancing in **HackTheBox's Senior Web Penetration Tester Path**, I am refining my expertise in **complex web exploitation, firewall evasion, and attack simulations in enterprise environments**. Passionate about **offensive security methodologies**, I continuously expand my knowledge through **real-world security challenges and research**.  
+  <section>
+    <h2>🛠 Technical Expertise</h2>
+    <div class="code-box">
+      <pre>
+🔹 Web Exploitation: SQLi, XSS, SSRF, SSTI, IDOR, RCE
+🔹 Red Team: AD Attacks (Kerberoasting, PtH, Lateral Movement)
+🔹 Network: MITM, VLAN Hopping, Port Scanning
+🔹 Tools: Metasploit, Burp, Wireshark, Splunk, Nmap
+🔹 Scripting: Python (Mid), Bash (Mid), PowerShell (Basic)
+      </pre>
+    </div>
+  </section>
 
----
+  <section class="img-section">
+    <h2>🎓 Education & 📜 Certifications</h2>
+    <ul>
+      <li>B.S. in Systems Engineering - 5th Semester</li>
+      <li>Hack4U - Linux Environment Customization</li>
+      <li>Hack4U - Linux & Bash Scripting</li>
+      <li>Udemy - Pentesting in Information Security</li>
+      <li>Preparing for: CEH, OSCP, eJPTv2</li>
+    </ul>
+    <img src="https://media.tenor.com/FzGzGrJzwN8AAAAd/hacker-anime.gif" alt="Hacker gif">
+  </section>
 
-## 🛠 Technical Expertise  
+  <section>
+    <h2>💼 Experience</h2>
+    <ul>
+      <li>Freelance Pentester – 15+ vulnerabilities mitigated for SMEs</li>
+      <li>TryHackMe & HackTheBox Labs – 50+ exploits across web/AD/network</li>
+      <li>CTFs – 20+ events, top 20% in 5 of them</li>
+    </ul>
+  </section>
 
-### 🔹 Offensive Security & Penetration Testing  
-- **Web Exploitation:** SQL Injection, XSS, SSRF, SSTI, IDOR, RCE, OAuth Misconfigurations  
-- **Network Attacks:** TCP/UDP Port Analysis, Firewall Evasion, Man-in-the-Middle (MITM), VLAN Hopping  
-- **Privilege Escalation:** Linux & Windows Kernel Exploits, SUID Misconfigurations, DLL Hijacking  
-- **Red Team Tactics:** Active Directory Attacks (Kerberoasting, Pass-the-Hash, Lateral Movement)  
+  <section>
+    <h2>📚 Projects & Writeups</h2>
+    <p>Coming soon: blog posts with real-world hacking labs and writeups.</p>
+    <div class="code-box">
+      <pre>
+- Bypassing WAF with Encoded Payloads
+- XSS in Login Portals – THM Writeup
+- OSINT Recon: Discovering Hidden Subdomains
+      </pre>
+    </div>
+  </section>
 
-### 🔹 Tools & Frameworks  
-- **Pentesting & Exploitation:** Metasploit, Burp Suite, Nmap, Nikto, SQLmap, JohnTheRipper  
-- **Security Monitoring & Analysis:** Wireshark, Splunk, ELK Stack, Suricata, Zeek  
-- **OSINT & Reconnaissance:** Maltego, TheHarvester, Shodan, FOCA  
-- **Scripting & Automation:** Python (Intermediate), Bash (Intermediate), PowerShell (Basic)  
-
----
-
-## 🎓 Education  
-### **B.S. in Systems Engineering** *(4th Semester)*  
-- **Corporación Universitaria Iberoamericana**  
-- Focus on **Offensive Security, Network Security, and Secure Software Development**  
-- Relevant Coursework: **Operating Systems, Computer Networks, Security and Cryptography, Ethical Hacking**  
-
----
-
-## 📜 Certifications  
-- **Hack4U - Linux Environment Customization**  
-  - 🆔 ID: 2834-6242-5500-3604 | [Verify Certificate](https://hack4u.io/check-certificate/)  
-- **Hack4U - Linux and Bash**  
-  - 🆔 ID: 6110-3981-2104-2052 | [Verify Certificate](https://hack4u.io/check-certificate/)  
-- **Udemy - Pentesting in Information Security**  
-  - [View Certificate](https://www.udemy.com/certificate/UC-e40c7171-613b-4cf5-9317-59efc7b2c9a9/)  
-
----
-
-## 💼 Experience  
-
-
-### 🧑‍💻 Cybersecurity Analyst
-- Performed penetration testing in production-like environments  
-- Identified high-risk vulnerabilities and advised on mitigation strategies  
-- Analyzed network traffic and conducted forensics in simulated incidents  
-- Strengthened security posture through offensive assessments and reporting
-
-
-### **TryHackMe & HackTheBox Cybersecurity Labs**  
-- 🏆 Conducted **advanced penetration testing exercises**, identifying and exploiting **50+ critical vulnerabilities** in **web, network, and Active Directory environments**.  
-- 🛠 Developed **custom attack scripts in Python and Bash**, automating reconnaissance and exploitation tasks.  
-- 🔍 Gained deep expertise in **firewall evasion, OSINT methodologies, and cloud security assessments**.  
-- 🌟 **Ranked among top performers** in multiple security challenges involving **privilege escalation, adversary emulation, and exploit development**.  
-- 📌 [TryHackMe Profile](https://tryhackme.com/r/p/PhilosopherMan08)  
-
-### **Freelance Cybersecurity Projects**  
-- Conducted **vulnerability assessments** for small businesses, identifying and mitigating **15+ security risks** in web applications and network infrastructure.  
-- Assisted organizations in **implementing security best practices**, strengthening their **cybersecurity posture by 20%**.  
-- Created **detailed penetration test reports**, ensuring compliance with industry standards and providing actionable recommendations.  
-
----
-
-## 🏆 Achievements & Leadership  
-- **CTF Competitions:** Participated in **20+ Capture The Flag (CTF) events**, ranking in the **top 20% in 5 of them**.  
-- **GitHub Projects:** Developed and shared **8+ open-source security tools**, including a **Python-based network scanner** and a **Bash script for firewall evasion**.  
-- **Technical Writing & Research:** Published **3 cybersecurity articles**, including *"Introduction to Ethical Hacking"* and *"Automating Reconnaissance with Python"*, accumulating **500+ views**.  
-
----
-
-## 📚 Current Learning  
-- **Hack the Box - Senior Web Penetration Tester Path** *(In Progress)*  
-- **Google Cybersecurity Specialization (Coursera)**  
-- **Preparing for Certifications:** **CEH, OSCP, eJPTv2**  
-
----
-
-## 🌐 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/oscarescalantecam)  
-- 🛡️ [TryHackMe](https://tryhackme.com/r/p/PhilosopherMan08)  
-- 🔗 [GitHub](https://github.com/Philosopher-Man)  
-
----
-
-> 🔒 *"Cybersecurity is not a product, it's a process."* – Bruce Schneier  
+  <section>
+    <h2>🌐 Contact</h2>
+    <p>🔗 <a href="https://github.com/Philosopher-Man" target="_blank">GitHub</a></p>
+    <p>🔗 <a href="https://www.linkedin.com/in/oscarescalantecam" target="_blank">LinkedIn</a></p>
+    <p>🔗 <a href="https://tryhackme.com/r/p/PhilosopherMan08" target="_blank">TryHackMe</a></p>
+  </section>
+</body>
+</html>
